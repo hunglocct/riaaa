@@ -11,4 +11,4 @@
 <h2>B2 : kéo tất cả các file vào trong thư mục chứa raia là xong</h2>
 <p>Chú ý : Dự án chỉ phục vụ cho học tập, không phục vụ thương mại hay sử dụng vào mục đích khác. Mục đích chính để nghiên cứu học tập, ai dow cũng chỉ sử dụng mục đích nghiên cứu học tập. Xin cảm ơn</p>
 <p>Chỉ dùng được với HĐH Windows</p>
-<a href="https://github.com/kachion27/RaiA-Crack-FT.Hung-Nguyen.git">Link source</a>
+<a href="https://github.com/hunglocct/riaaa.git">Link source</a>
