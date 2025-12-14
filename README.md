@@ -1,5 +1,5 @@
 <h1>DONATE cho dự án nhé</h1>
-<img width="60%" src="https://github.com/hunglocct/riaaa/blob/main/Resources/Images/300915021_download.jpg?raw=true"/>
+<img width="60%" src=""/>
 <h1>HƯỚNG DẪN CÁCH SỬ DỤNG - Dự án học tập</h1>
 <img width="60%" src="https://github.com/hunglocct/riaaa/blob/main/Resources/Images/Screenshot%202025-11-04%20003332.png?raw=true"/>
 <p>
